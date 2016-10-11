@@ -1,5 +1,5 @@
 var expect = require("chai").expect;
-var test = require("../build/test");
+var test = require("../js/build/test");
 
 describe("Test tests", function() {
   it("tests tests", function() {
